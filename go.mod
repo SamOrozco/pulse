@@ -1,1 +1,1 @@
-module pulse
+module github.com/SamOrozco/pulse

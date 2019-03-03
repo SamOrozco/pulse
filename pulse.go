@@ -1,6 +1,10 @@
-package pulse
+package main
 
 import "sync/atomic"
+
+func main() {
+
+}
 
 // A pulse is meant to be a pub-sub signaler
 // basically I want to get multiple reads from a single channel write
